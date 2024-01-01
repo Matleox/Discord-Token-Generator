@@ -26,7 +26,7 @@
 publish date: 6/20/2023
 
 this version is patched.
-you can purchase working version @ https://shop.vast.sh
+you can purchase working version @ https://t.me/johnwatson02
 </h3>
 
 ---
@@ -34,7 +34,7 @@ you can purchase working version @ https://shop.vast.sh
 ### ⚙️ Installation
 
 - Requires: `Python 3.10+`
-- Install the requirements: `pip install -r requirements.txt`
+- Install the requirements: `run install requirements.bat`
 - Add your proxies to `proxies.txt`
 - Edit the `config.toml` to your preference
 - Start: `python3 main.py`
